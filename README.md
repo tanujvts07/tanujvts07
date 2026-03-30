@@ -28,6 +28,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tanujvts07&color=blue&style=flat-square)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanujvts07&show_icons=true&theme=dark)
+
 
 
