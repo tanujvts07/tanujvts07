@@ -26,4 +26,4 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=tanujvts07&color=blue&style=flat-square)
