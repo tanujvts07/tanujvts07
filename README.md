@@ -1,4 +1,4 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Tanuj 👋
 
 **[Computer Science & Engineering] | [Core] | [Mobile Development]**
 
